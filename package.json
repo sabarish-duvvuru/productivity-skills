@@ -1,0 +1,11 @@
+{
+  "name": "productivity-skills",
+  "version": "1.0.0",
+  "description": "Agent skills for personal productivity — calendar, focus modes, meetings, communication compression, Obsidian, and subscription optimization.",
+  "files": ["skills/", ".claude-plugin/", "guides/", "README.md"],
+  "scripts": { "postinstall": "node scripts/install.js" },
+  "keywords": ["agent-skills", "productivity", "calendar", "focus", "obsidian", "craft-agent"],
+  "author": "sabarish-duvvuru",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/sabarish-duvvuru/productivity-skills.git" }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "productivity-skills",
+  "description": "Agent skills for personal productivity — 19 skills for calendar, focus, meetings, comms, notes, and subscriptions.",
+  "version": "1.0.0",
+  "skills": [
+    "./skills/meeting-check",
+    "./skills/hl-calendar",
+    "./skills/hl-calendar-native",
+    "./skills/de-standup",
+    "./skills/focus-sync",
+    "./skills/focus-iterm-bridge",
+    "./skills/init-tune",
+    "./skills/hook-perf",
+    "./skills/caveman",
+    "./skills/caveman-compress",
+    "./skills/edit-article",
+    "./skills/operator-patterns",
+    "./skills/bookmark-obsidian",
+    "./skills/obsidian-vault",
+    "./skills/hl-break-even",
+    "./skills/hl-value-ratio",
+    "./skills/hl-cost-tracking",
+    "./skills/hl-live-api-testing",
+    "./skills/hl-auth-priority"
+  ]
+}
