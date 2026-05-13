@@ -1,7 +1,7 @@
 {
   "name": "productivity-skills",
-  "version": "1.0.0",
-  "description": "Agent skills for personal productivity — calendar, focus modes, meetings, communication compression, Obsidian, and subscription optimization.",
+  "version": "2.0.0",
+  "description": "41 personal productivity agent skills.",
   "files": ["skills/", ".claude-plugin/", "guides/", "README.md"],
   "scripts": { "postinstall": "node scripts/install.js" },
   "keywords": ["agent-skills", "productivity", "calendar", "focus", "obsidian", "craft-agent"],
