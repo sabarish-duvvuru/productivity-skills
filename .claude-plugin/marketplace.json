@@ -1,5 +1,6 @@
 {
   "name": "productivity-skills",
+  "description": "",
   "version": "2.0.0",
   "skills": [
     "./skills/bee",
@@ -16,19 +17,15 @@
     "./skills/focus-iterm-bridge",
     "./skills/focus-sync",
     "./skills/hl-auth-priority",
-    "./skills/hl-auto-index hl-hook-resilience",
     "./skills/hl-auto-index",
     "./skills/hl-break-even",
     "./skills/hl-calendar",
     "./skills/hl-calendar-native",
-    "./skills/hl-chatgpt hl-cu-skills",
     "./skills/hl-chatgpt",
     "./skills/hl-cost-tracking",
     "./skills/hl-cu-skills",
-    "./skills/hl-cursor-routing hl-cursor-session-hooks hl-session-tracking",
     "./skills/hl-cursor-routing",
     "./skills/hl-cursor-session-hooks",
-    "./skills/hl-fetch hl-safari-tabs",
     "./skills/hl-fetch",
     "./skills/hl-hook-resilience",
     "./skills/hl-live-api-testing",
@@ -37,7 +34,6 @@
     "./skills/hl-session-tracking",
     "./skills/hl-subscription-maximize",
     "./skills/hl-subscription-research",
-    "./skills/hl-task-routing hl-subscription-maximize hl-subscription-research",
     "./skills/hl-task-routing",
     "./skills/hl-value-ratio",
     "./skills/hook-perf",
@@ -48,5 +44,5 @@
     "./skills/openages-if-releases",
     "./skills/operator-patterns",
     "./skills/zoom-out"
-  ]
+]
 }
